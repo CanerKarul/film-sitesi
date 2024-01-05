@@ -1,8 +1,8 @@
-<h1>Film Sitesi Fronted</h1>
+<h1>Film Sitesi Frontend</h1>
 
 💡Temel Özellikler:
 
-- Bu projenin temel amacı HTML, CSS, JavaScript dilleri ve fronted hakkında deneyim kazanmaktır.
+- Bu projenin temel amacı HTML, CSS, JavaScript dilleri ve frontend hakkında deneyim kazanmaktır.
 
 - Site, HTML, CSS ve JavaScript dilleri ile kodlanmıştır.
 
